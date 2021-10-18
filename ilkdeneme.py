@@ -1,9 +1,9 @@
-matematik = input('matematik : ')
-turkce = input('turkce : ')
-kimya = input('kimya : ')
-fizik = input('fizik : ')
-biyoloji = input('biyoloji : ')
-tarih = input('tarih : ')
+matematik =
+turkce =
+kimya =
+fizik =
+biyoloji =
+tarih =
 toplam=(float(matematik)+float(turkce)+float(kimya)+float(fizik)+float(biyoloji)+float(tarih)*25)/30
 print("Toplam :{0} ".format(toplam))
 if(toplam<50):
